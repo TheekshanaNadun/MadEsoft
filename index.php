@@ -79,6 +79,7 @@ require_once "admin/db.php";
                 </div>
             </div>
             <!-- offcanvas-start -->
+             <img src="/new.jpg"
             <div class="extra-info">
                 <div class="close-icon menu-close">
                     <button>
